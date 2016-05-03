@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Website of STSS launched"
+title: "New Website of STSS launched"
 date: 2016-04-30
 ---
 
