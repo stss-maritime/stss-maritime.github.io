@@ -1,3 +1,5 @@
 # stss-maritime.github.io 
 
-Just for test2
+Official website of **[STSS]**
+
+[STSS]: http://stss-maritime.github.io/
